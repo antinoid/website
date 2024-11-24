@@ -9,8 +9,8 @@ body {
 .owl {
   position: fixed;
   /* bottom: 0px; */
-  left: 50%;
-  top: 50%;
+  left: calc(50% - 50px);
+  top: calc(50% - 77px);
 }
 
 .eyes {
